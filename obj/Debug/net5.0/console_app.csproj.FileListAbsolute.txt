@@ -1,0 +1,13 @@
+/tmp/console_app/obj/Debug/net5.0/console_app.csprojAssemblyReference.cache
+/tmp/console_app/obj/Debug/net5.0/console_app.AssemblyInfoInputs.cache
+/tmp/console_app/obj/Debug/net5.0/console_app.AssemblyInfo.cs
+/tmp/console_app/obj/Debug/net5.0/console_app.csproj.CoreCompileInputs.cache
+/tmp/console_app/bin/Debug/net5.0/console_app
+/tmp/console_app/bin/Debug/net5.0/console_app.deps.json
+/tmp/console_app/bin/Debug/net5.0/console_app.runtimeconfig.json
+/tmp/console_app/bin/Debug/net5.0/console_app.runtimeconfig.dev.json
+/tmp/console_app/bin/Debug/net5.0/console_app.dll
+/tmp/console_app/bin/Debug/net5.0/console_app.pdb
+/tmp/console_app/obj/Debug/net5.0/console_app.dll
+/tmp/console_app/obj/Debug/net5.0/console_app.pdb
+/tmp/console_app/obj/Debug/net5.0/console_app.genruntimeconfig.cache
